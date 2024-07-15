@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>supademo</title>
+        <item>
+            <title>0.1.0</title>
+            <pubDate>Mon, 15 Jul 2024 19:45:17 +0330</pubDate>
+            <sparkle:version>5</sparkle:version>
+            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/ArashMLava/sparkletest/releases/download/debug/Debug-Supademo-Installer.3.dmg" length="5807049" type="application/octet-stream" sparkle:edSignature="6GKxnhEteowEfG7PsAJun1gUq9mdcy2Hqi47khYANv90Mw6VtErSL4XCA8KL/3CrusyviSBK9HO2np18fPlUAg=="/>
+        </item>
+    </channel>
+</rss>
